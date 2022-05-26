@@ -15,6 +15,7 @@ namespace OnlineShop.Database.Core.Mapping
 
             builder.HasMany<ApplicationRoleClaim>().WithOne().HasForeignKey(rc => rc.ClaimId);
             builder.HasMany<ApplicationUserClaim>().WithOne().HasForeignKey(uc => uc.ClaimId);
+            builder.ToTable(nameof(ApplicationClaim));
         }
     }
 }

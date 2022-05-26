@@ -11,6 +11,7 @@ namespace OnlineShop.Database.Core.Mapping
         public void Configure(EntityTypeBuilder<ApplicationUserRole> builder)
         {
             builder.HasKey(x => new { x.UserId, x.RoleId });
+            builder.ToTable(nameof(ApplicationUserRole));
         }
     }
 }

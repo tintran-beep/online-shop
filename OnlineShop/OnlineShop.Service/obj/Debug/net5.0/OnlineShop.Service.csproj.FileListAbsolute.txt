@@ -10,3 +10,10 @@ D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\obj\Debug
 D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\obj\Debug\net5.0\refint\OnlineShop.Service.dll
 D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\obj\Debug\net5.0\OnlineShop.Service.pdb
 D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\obj\Debug\net5.0\ref\OnlineShop.Service.dll
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\bin\Debug\net5.0\OnlineShop.Database.dll
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\bin\Debug\net5.0\OnlineShop.Infrastructure.dll
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\bin\Debug\net5.0\OnlineShop.Model.dll
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\bin\Debug\net5.0\OnlineShop.Database.pdb
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\bin\Debug\net5.0\OnlineShop.Infrastructure.pdb
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\bin\Debug\net5.0\OnlineShop.Model.pdb
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Service\obj\Debug\net5.0\OnlineShop.Service.csproj.CopyComplete

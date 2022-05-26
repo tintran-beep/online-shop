@@ -1,0 +1,12 @@
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\bin\Debug\net5.0\OnlineShop.Model.deps.json
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\bin\Debug\net5.0\OnlineShop.Model.dll
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\bin\Debug\net5.0\OnlineShop.Model.pdb
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\obj\Debug\net5.0\OnlineShop.Model.csproj.AssemblyReference.cache
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\obj\Debug\net5.0\OnlineShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\obj\Debug\net5.0\OnlineShop.Model.AssemblyInfoInputs.cache
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\obj\Debug\net5.0\OnlineShop.Model.AssemblyInfo.cs
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\obj\Debug\net5.0\OnlineShop.Model.csproj.CoreCompileInputs.cache
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\obj\Debug\net5.0\OnlineShop.Model.dll
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\obj\Debug\net5.0\refint\OnlineShop.Model.dll
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\obj\Debug\net5.0\OnlineShop.Model.pdb
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Model\obj\Debug\net5.0\ref\OnlineShop.Model.dll

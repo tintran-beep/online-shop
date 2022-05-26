@@ -10,3 +10,6 @@ D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Database\obj\Debu
 D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Database\obj\Debug\net5.0\refint\OnlineShop.Database.dll
 D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Database\obj\Debug\net5.0\OnlineShop.Database.pdb
 D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Database\obj\Debug\net5.0\ref\OnlineShop.Database.dll
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Database\bin\Debug\net5.0\OnlineShop.Database.runtimeconfig.json
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Database\bin\Debug\net5.0\OnlineShop.Database.runtimeconfig.dev.json
+D:\SelfLearning\tintran-beep\online-shop\OnlineShop\OnlineShop.Database\obj\Debug\net5.0\OnlineShop.Database.genruntimeconfig.cache

@@ -9,7 +9,8 @@ namespace OnlineShop.Database.Core.Mapping
     {
         public void Configure(EntityTypeBuilder<ApplicationUserClaim> builder)
         {
-            builder.HasKey(x => new { x.UserId, x.ClaimId }); 
+            builder.HasKey(x => new { x.UserId, x.ClaimId });
+            builder.ToTable(nameof(ApplicationUserClaim));
         }
     }
 }

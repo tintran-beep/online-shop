@@ -6,9 +6,8 @@
 
   <ItemGroup>
     <Folder Include="Catalog\Entity\" />
-    <Folder Include="Catalog\Migration\" />
+    <Folder Include="Catalog\MigrationHistory\" />
     <Folder Include="Catalog\Mapping\" />
-    <Folder Include="Core\Migration\" />
   </ItemGroup>
 
   <ItemGroup>

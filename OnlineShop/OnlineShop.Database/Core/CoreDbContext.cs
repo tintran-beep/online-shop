@@ -6,13 +6,14 @@ namespace OnlineShop.Database.Core
 {
     public class CoreDbContext : BaseDbContext
     {
-        public CoreDbContext()
+        public CoreDbContext(DbContextOptions<CoreDbContext> options) : base(options)
         {
 
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
+
         }
 
         protected override void OnModelCreating(ModelBuilder builder)

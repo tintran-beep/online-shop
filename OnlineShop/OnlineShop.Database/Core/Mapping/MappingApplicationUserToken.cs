@@ -14,6 +14,7 @@ namespace OnlineShop.Database.Core.Mapping
             builder.Property(x => x.Provider).HasMaxLength(256).IsRequired();
             builder.Property(x => x.TokenName).HasMaxLength(256).IsRequired();
             builder.Property(x => x.TokenValue).HasMaxLength(5000).IsRequired();
+            builder.ToTable(nameof(ApplicationUserToken));
         }
     }
 }

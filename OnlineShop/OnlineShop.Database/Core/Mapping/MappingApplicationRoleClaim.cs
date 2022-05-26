@@ -10,6 +10,7 @@ namespace OnlineShop.Database.Core.Mapping
         public void Configure(EntityTypeBuilder<ApplicationRoleClaim> builder)
         {
             builder.HasKey(x => new { x.RoleId, x.ClaimId });
+            builder.ToTable(nameof(ApplicationRoleClaim));
         }
     }
 }
